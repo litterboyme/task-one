@@ -1,0 +1,332 @@
+.one {
+    margin:0;
+    padding: 20px;
+    font-family: "Montserrat-ExtraLight";
+    background-image: url(https://github.com/litterboyme/task-one/blob/main/%E5%89%8D%E7%AB%AF%E5%AD%A6%E9%99%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE_01.png?raw=true);
+    }
+    
+.headline {
+            text-align: center;
+            font-weight: 300;
+            font-size: 80px;
+            color:white;
+            margin-bottom: 80px;
+            }    
+             
+.maincontent{
+    text-align:center;
+    color:rgb(173, 171, 171);
+    font-weight: 100;
+}
+
+.secondpart{
+    text-align: center;
+    border-style:solid;
+    border-width:1px;
+    border-color: rgb(133, 133, 133);
+    width:850px; 
+    padding:30px;
+    margin-left: 300px;  
+    margin-bottom: 100px;
+}
+
+.first{
+    color:white;
+    font-size: 200;
+    letter-spacing: 5px;
+}
+
+.second{
+    color:rgb(170, 169, 169);
+    word-spacing:3px;
+    font-size: 3px;
+    letter-spacing: 1px;
+}
+
+.two{
+    text-align: center;
+}
+
+.firstline{
+    padding:100px;
+    font-size:3px;
+    font-weight:5px;
+    letter-spacing: 1px;
+}
+
+.secondline{
+    padding-left: 25%;
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    padding-right: 25%;
+}
+
+.imageone{
+position: absolute;
+left:15%;
+}
+
+.contentone{
+    position: relative;
+    left:40%;
+    margin:0;
+}
+
+.contenttwo{
+    position: relative;
+    left:40%;
+    top:10%;
+    font-weight: 100;
+}
+
+.contentthree {
+    position: relative;
+    left: 40%;
+    top: -15px;
+    font-weight: 100;
+}
+
+.imagetwo{
+    position: absolute;
+    top: 1090px;
+    right: 560px;
+}
+
+
+.contentone2 {
+    position: absolute;
+    right: 30%;
+    margin: 0;
+    top: 150%;
+}
+
+.contenttwo2 {
+    position: relative;
+    right: 83%;
+    bottom: -23px;
+    font-weight: 100;
+}
+
+.contentthree2 {
+    bottom: -8px;
+    right: 250px;
+    position: relative;
+    font-weight: 100;
+}
+.imagethree{
+    position: absolute;
+    top: 1250px;
+    left: 230px;
+}
+
+.contentone3 {
+    position: absolute;
+    right: 71%;
+    margin: 0;
+    top: 172%;
+}
+
+.contenttwo3 {
+    position: relative;
+    right: 30%;
+    top: 205px;
+    font-weight: 100;
+}
+
+.imagefour{
+    position: absolute;
+    top: 1250px;
+    right: 560px;
+}
+
+.contentone4 {
+    position: absolute;
+    left: 64%;
+    margin: 0;
+    top: 172%;
+}
+
+.contenttwo4 {
+    position: relative;
+    left: 23%;
+    top: 135px;
+    font-weight: 100;
+}
+
+.three{
+    background-image: url(https://github.com/litterboyme/task-one/blob/main/%E5%89%8D%E7%AB%AF%E5%AD%A6%E9%99%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE_g.png?raw=true);
+    position: relative;
+    top: 200px;
+    padding: 21%;
+}
+.thirdpart{
+ position: relative;
+ left:10%;
+ font-weight: 100;
+ color:rgb(170, 169, 169);
+ letter-spacing: 2px;
+}
+
+.four{
+    position: relative;
+    top: 300px;
+}
+
+.fourpart{
+    padding-left: 35%;
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    padding-right: 25%;
+}
+
+.imagefour2{
+    display: inline;
+    position: relative;
+    top: 15px;
+    align-content: center;
+}
+
+.five{
+    position: relative;
+    top: 400px;
+    margin-left: 50px;
+}
+
+.fiveimage1{
+    margin:50px;
+    margin-left: 150px;
+}
+
+.fivecontent1 {
+    font-weight: 550;
+    word-spacing: 1px;
+    position: absolute;
+    right: 380px;
+    top: 110px;
+    line-height: 2;
+    font-size: 20px;
+}
+
+.fivecontent2{
+ color:rgb(170, 169, 169);
+ letter-spacing: 2px;
+ position: absolute;
+    right: 271px;
+    top: 220px;
+}
+
+.fiveimage2{
+    margin-right: 150px;
+    margin: 50px;
+    position: absolute;
+    top: 425px;
+    right: 270px;
+}
+
+.fivecontent3 {
+    font-weight: 550;
+    word-spacing: 1px;
+    position: absolute;
+    left: 150px;
+    top: 500px;
+    line-height: 2;
+    font-size: 20px;
+}
+
+.fivecontent4{
+    color:rgb(170, 169, 169);
+    letter-spacing: 2px;
+    position: absolute;
+    left: 150px;
+    top: 610px;
+   }
+
+   .six{
+    position: relative;
+    top: 1350px;
+    margin-left: 50px;
+   }
+
+   .sixpart{
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    position: absolute;
+    right: 600px;
+   }
+
+   .sixcontent{
+    color: rgb(170, 169, 169);
+    letter-spacing: 2px;
+    align-content: center;
+    position: absolute;
+    top: 100px;
+    right: 370px;
+    white-space: pre;
+   }
+
+   .siximg {
+    position: absolute;
+    top: 270px;
+    left: 145px;
+}
+
+.seven{
+    position: relative;
+    top: 2500px;
+    left: 200px;
+    width: 970px;
+} 
+
+.sevencontent{
+    font-size: 8px;
+    font-weight: bold;
+    word-spacing: 3px;
+    position: relative;
+    bottom: 420px;
+    padding: 140px;
+}
+
+.input1 {
+    width: 340px;
+    padding: 15px;
+    margin: 10px 10px;
+    position: relative;
+    right: -40px;
+    bottom: 360px
+}
+
+.input2 {
+    width: 340px;
+    padding: 15px;
+    margin: 10px 10px;
+    position: relative;
+    right: -40px;
+    bottom: 350px;
+}
+
+.input3 {
+    width: 317px;
+    padding: 24px;
+    margin: 10px 10px;
+    position: relative;
+    right: -42px;
+    bottom: 340px;
+    padding-bottom: 100px;
+}
+
+.finalimg{
+    position: absolute;
+    top: 3060px;
+    right: 0px;
+}
+
+.sign2 {
+    position: absolute;
+    top: 2944px;
+    left: 251px;
+    width: 370px;
+    height: 60px;
+}
